@@ -1,5 +1,5 @@
 # 2-Stage-Pipelined-Vector-and-Matrix-Multiplier-on-FPGA
-2 Stage Pipelined Vector and Matrix Multiplier on FPGA (Nexys DDR4 development board)
+2 Stage Pipelined Vector and Matrix Multiplier on FPGA (Nexys DDR4 development board) for vector dot products, 2x2 and 4x4 matrix multiplication.
 
 Results in Simulation are:
 <img width="1840" height="800" alt="All Togther Simulation" src="https://github.com/user-attachments/assets/7511aa94-071e-4070-b022-d96076790371" />
